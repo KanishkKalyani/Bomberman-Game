@@ -1,11 +1,12 @@
 # Bomberman-Game
-Bomberman Game (Link Minesweeper)
 
-Problem Statement: 
+Bomberman Game (Like Minesweeper)
+
+Problem Statement:
 
 The rules for the game are simple:
 
-You have a 9*9 grid which makes a total of 81 boxes.
+You have a 9\*9 grid which makes a total of 81 boxes.
 Out of these 81 boxes 10 boxes contain bomb and other boxes are normal.
 If a normal box is clicked, the user is awarded a point and if a user clicks on a
 box containing a bomb, the game gets over (GAME OVER!) and you need to
@@ -14,9 +15,9 @@ give an option to the user to start a fresh game.
 Whenever a user clicks on a cell he/she should be able to see a number based on the following conditions:
 Consider a rectangular area around the cell clicked.
 
- - Calculate the number of bombs contained in that area.
+- Calculate the number of bombs contained in that area.
 
- - Display the number in the cell.
+- Display the number in the cell.
 
 Users first! 🙏
 You have helped users a lot by guiding them the path, but what if they could remember their conclusions out of those helping paths?
