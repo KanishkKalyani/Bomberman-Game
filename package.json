@@ -2,7 +2,7 @@
 	"name": "bomberman_game",
 	"version": "1.0.0",
 	"description": "Minesweeper like game",
-	"main": "Bomberman_2.html",
+	"main": "index.html",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"predeploy": "npm run build",
