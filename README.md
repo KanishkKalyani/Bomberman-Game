@@ -1,5 +1,7 @@
 # Bomberman-Game
 
+## Hosted Link: https://kanishkkalyani.github.io/Bomberman-Game/
+
 Bomberman Game (Like Minesweeper)
 
 Problem Statement:
